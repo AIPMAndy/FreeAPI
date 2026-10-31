@@ -1,6 +1,6 @@
 {
   "source": "public-apis/public-apis",
-  "total": 1092,
+  "total": 1093,
   "categories": {
     "Animals": [
       {
@@ -6158,6 +6158,14 @@
         "auth": "No",
         "https": "Yes",
         "cors": "No"
+      },
+      {
+        "name": "Bucketlist.nl Dream of the Day",
+        "url": "https://bucketlist.nl/brand/droom-van-de-dag.openapi.json",
+        "description": "Daily activity and experience inspiration with images and canonical source links",
+        "auth": "No",
+        "https": "Yes",
+        "cors": "Yes"
       },
       {
         "name": "FavQs.com",
