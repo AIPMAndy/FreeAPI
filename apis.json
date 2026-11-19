@@ -1,6 +1,6 @@
 {
   "source": "public-apis/public-apis",
-  "total": 1092,
+  "total": 1093,
   "categories": {
     "Animals": [
       {
@@ -856,6 +856,14 @@
         "auth": "apiKey",
         "https": "Yes",
         "cors": "Unknown"
+      },
+      {
+        "name": "Datacircle",
+        "url": "https://api.datacircle.dev/v1/openapi.json",
+        "description": "Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.",
+        "auth": "No",
+        "https": "Yes",
+        "cors": "Yes"
       },
       {
         "name": "Domainsdb.info",

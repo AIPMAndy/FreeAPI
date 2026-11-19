@@ -1,11 +1,12 @@
 # Business
 
-**20 APIs**
+**21 APIs**
 
 | API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [Charity Search](http://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | No | Unknown |
 | [Clearbit Logo](https://clearbit.com/docs#logo-api) | Search for company logos and embed them in your projects | `apiKey` | Yes | Unknown |
+| [Datacircle](https://api.datacircle.dev/v1/openapi.json) | Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website. | `No` | Yes | Yes |
 | [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | `No` | Yes | No |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | `OAuth` | Yes | Unknown |
 | [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | `OAuth` | Yes | Unknown |

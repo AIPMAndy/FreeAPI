@@ -7,7 +7,7 @@
 **1,000+ APIs · 51 Categories · JSON + Markdown · Always Free**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![APIs](https://img.shields.io/badge/APIs-1092-blue.svg?style=for-the-badge)](apis.json)
+[![APIs](https://img.shields.io/badge/APIs-1093-blue.svg?style=for-the-badge)](apis.json)
 [![Categories](https://img.shields.io/badge/Categories-51-green.svg?style=for-the-badge)](#-categories)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 
@@ -109,7 +109,7 @@ Each field:
 | 🔐 | [Auth & Authorization](categories/authentication-authorization.md) | 6 |
 | ⛓️ | [Blockchain](categories/blockchain.md) | 7 |
 | 📚 | [Books](categories/books.md) | 15 |
-| 💼 | [Business](categories/business.md) | 20 |
+| 💼 | [Business](categories/business.md) | 21 |
 | 📅 | [Calendar](categories/calendar.md) | 13 |
 | ☁️ | [Cloud Storage](categories/cloud-storage-file-sharing.md) | 17 |
 | 🔄 | [Continuous Integration](categories/continuous-integration.md) | 6 |
